@@ -29,5 +29,12 @@ local.properties
 # TeXlipse plugin
 .texlipse
 
+#Saved file
+save1.txt
+save2.txt
+save3.txt
+
 .classpath
 .project
+
+Thumbs.db
