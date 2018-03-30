@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Data/AI.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Data/ChessData.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Data/Mainclass.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Gui/Decoration.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Gui/Field.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Gui/Option.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Gui/Read.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/Seancheey/Gui/Save.java" charset="GB18030" />
+  </component>
+</project>
